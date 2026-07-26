@@ -1,27 +1,33 @@
-# Free AI Directory
+# 免费 AI 目录 / Free AI Directory
 
-A daily-updated directory of free AI models, APIs, AI news, trending open-source projects, and source-linked relay information for developers.
+面向中文用户的每日 AI 热点与免费模型入口。每天更新 AI 新闻、热门开源项目和趋势模型，并整理免费 API 平台、全类型模型与 Codex / Claude Code 中转站公开资料。
 
-Website: https://www.qaz5678.xyz/
+A daily-updated, source-linked directory for free AI models, APIs, AI news, open-source projects, and coding-agent relay information.
 
-## Browse
+## 在线入口 / Live site
 
-Daily AI Top 10: https://www.qaz5678.xyz/daily/
+- [今日 AI 热点：新闻、项目、趋势模型各 Top 10](https://www.qaz5678.xyz/daily/?utm_source=github&utm_medium=readme&utm_campaign=daily_ai)
+- [免费 AI 模型大全：36 个入口、14 种能力](https://www.qaz5678.xyz/models/?utm_source=github&utm_medium=readme&utm_campaign=free_models)
+- [9 个免费 LLM API 平台对比](https://www.qaz5678.xyz/guides/free-llm-api-providers/?utm_source=github&utm_medium=readme&utm_campaign=free_llm_api)
+- [Codex 免费使用入口与官方限制](https://www.qaz5678.xyz/guides/codex-free/?utm_source=github&utm_medium=readme&utm_campaign=codex_free)
+- [Claude Code 免费方案与官方要求](https://www.qaz5678.xyz/guides/claude-code-free/?utm_source=github&utm_medium=readme&utm_campaign=claude_code_free)
+- [Codex / Claude Code 中转站协议与风险](https://www.qaz5678.xyz/guides/codex-claude-code-relay/?utm_source=github&utm_medium=readme&utm_campaign=relay_guide)
+- [图像、视频与语义分割模型](https://www.qaz5678.xyz/guides/free-image-video-models/?utm_source=github&utm_medium=readme&utm_campaign=visual_models)
+- [Embedding 与 Rerank 模型入口](https://www.qaz5678.xyz/guides/free-embedding-rerank/?utm_source=github&utm_medium=readme&utm_campaign=rag_models)
 
-AI news: https://www.qaz5678.xyz/news/
+## 当前范围 / Current scope
 
-Trending open-source projects: https://www.qaz5678.xyz/projects/
+- 9 个免费或含赠金额度的模型平台
+- 36 个模型入口，覆盖文本、代码、图像、视频、Embedding、Rerank、语义分割、语音等 14 类能力
+- 13 个 Codex、Claude Code 与通用 API 中转站候选，逐项标注来源与风险
+- 每日 10 条 AI 新闻、10 个热门项目、10 个趋势模型
+- 公开 JSON、RSS、方法说明和历史归档
 
-Free model directory: https://www.qaz5678.xyz/models/
+## 原则 / Principles
 
-Codex and Claude Code guide: https://www.qaz5678.xyz/guides/codex-claude-code-relay/
+- 不接收或保存 API Key
+- 不替用户测试模型，不把“可访问”包装成性能结论
+- 不卖排名，不因返佣改变排序
+- 免费政策和中转站状态可能变化，使用前请回到来源页核对
 
-Free AI API guide: https://www.qaz5678.xyz/guides/free-ai-api/
-
-## Scope
-
-Text, code, image, video, embedding, rerank, semantic segmentation, object detection, speech-to-text, text-to-speech, audio classification, and translation models.
-
-The site lists public sources, free access methods, and outbound links. Relay listings include third-party risk notices. It does not sell credits or accept API keys. Free tiers and service status can change; verify details on the linked source page.
-
-Updated daily.
+数据与页面每日更新。失效链接、规则变化或新条目可在 [公开 Issue](https://github.com/xuhaitao/free-ai-directory-cn/issues/1) 提交证据。
