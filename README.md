@@ -7,9 +7,12 @@ A daily-updated, source-linked directory for free AI models, APIs, AI news, open
 ## 在线入口 / Live site
 
 - [今日 AI 热点：新闻、项目、趋势模型各 Top 10](https://www.qaz5678.xyz/daily/?utm_source=github&utm_medium=readme&utm_campaign=daily_ai)
-- [免费 AI 模型大全：36 个入口、14 种能力](https://www.qaz5678.xyz/models/?utm_source=github&utm_medium=readme&utm_campaign=free_models)
-- [9 个免费 LLM API 平台对比](https://www.qaz5678.xyz/guides/free-llm-api-providers/?utm_source=github&utm_medium=readme&utm_campaign=free_llm_api)
-- [Codex 免费使用入口与官方限制](https://www.qaz5678.xyz/guides/codex-free/?utm_source=github&utm_medium=readme&utm_campaign=codex_free)
+- [免费 AI 模型大全：42 个入口、14 种能力](https://www.qaz5678.xyz/models/?utm_source=github&utm_medium=readme&utm_campaign=free_models)
+- [不充值也能开始的 4 个免费 AI API](https://www.qaz5678.xyz/guides/free-ai-api-no-topup/?utm_source=github&utm_medium=readme&utm_campaign=no_topup_api)
+- [12 个免费 LLM API 平台对比](https://www.qaz5678.xyz/guides/free-llm-api-providers/?utm_source=github&utm_medium=readme&utm_campaign=free_llm_api)
+- [免费 Embedding API 对比](https://www.qaz5678.xyz/guides/free-embedding-api/?utm_source=github&utm_medium=readme&utm_campaign=embedding_api)
+- [免费图像生成 API 对比](https://www.qaz5678.xyz/guides/free-image-generation-api/?utm_source=github&utm_medium=readme&utm_campaign=image_api)
+- [Codex 免费入口与官方限制](https://www.qaz5678.xyz/guides/codex-free/?utm_source=github&utm_medium=readme&utm_campaign=codex_free)
 - [Claude Code 免费方案与官方要求](https://www.qaz5678.xyz/guides/claude-code-free/?utm_source=github&utm_medium=readme&utm_campaign=claude_code_free)
 - [Codex / Claude Code 中转站协议与风险](https://www.qaz5678.xyz/guides/codex-claude-code-relay/?utm_source=github&utm_medium=readme&utm_campaign=relay_guide)
 - [图像、视频与语义分割模型](https://www.qaz5678.xyz/guides/free-image-video-models/?utm_source=github&utm_medium=readme&utm_campaign=visual_models)
@@ -17,8 +20,8 @@ A daily-updated, source-linked directory for free AI models, APIs, AI news, open
 
 ## 当前范围 / Current scope
 
-- 9 个免费或含赠金额度的模型平台
-- 36 个模型入口，覆盖文本、代码、图像、视频、Embedding、Rerank、语义分割、语音等 14 类能力
+- 12 个免费或含赠金额度的模型平台
+- 42 个模型入口，覆盖文本、代码、图像、视频、Embedding、Rerank、语义分割、语音等 14 类能力
 - 13 个 Codex、Claude Code 与通用 API 中转站候选，逐项标注来源与风险
 - 每日 10 条 AI 新闻、10 个热门项目、10 个趋势模型
 - 公开 JSON、RSS、方法说明和历史归档
