@@ -1,41 +1,41 @@
-# Daily AI Radar - 2026-09-22
+# Daily AI Radar - 2026-09-23
 
 Source: https://www.qaz5678.xyz/daily/
 
 ## AI News Top 10
-1. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
-2. [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
-3. [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
-4. [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
-5. [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
-6. [US Military had close call after using AI for hallucinated intelligence report](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
-7. [Why I'm still bearish on LLMs after Navier-Stokes](https://dank.systems/posts/2026-09-15-ai-bear.html)
-8. [Bend – a language that blocks AI mistakes via proof and runs on GPUs](https://bend-lang.com/)
-9. [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
-10. [Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com](https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/)
+1. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+2. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+3. [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+4. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+5. [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+6. [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked)
+7. [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
+8. [OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
+9. [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
+10. [Claude Code now reads AGENTS.md if there is no Claude.md](https://code.claude.com/docs/en/changelog)
 
 ## Trending AI Projects Top 10
-1. [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
-2. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
-3. [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)
-4. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-5. [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
-6. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-8. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
-9. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-10. [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+1. [dream-num/univer](https://github.com/dream-num/univer)
+2. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+3. [google/ax](https://github.com/google/ax)
+4. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+5. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+6. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+7. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+8. [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
+9. [herdrdev/herdr](https://github.com/herdrdev/herdr)
+10. [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
 ## Trending AI Models Top 10
 1. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
 2. [prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf)
 3. [Qwen/Qwen-Image-2.1](https://huggingface.co/Qwen/Qwen-Image-2.1)
 4. [XingChen-AGI/Xing4.0-29B-A4B](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B)
-5. [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
-6. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
-7. [abenzerps/Qwen-Image-2.1-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF)
+5. [abenzerps/Qwen-Image-2.1-Uncensored-GGUF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)
+6. [deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
+7. [Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)
 8. [harshatheg/Qwen-2.5-1B-RLCD](https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD)
-9. [ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)
-10. [m-a-p/YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)
+9. [Altworld/Hemmingway-1](https://huggingface.co/Altworld/Hemmingway-1)
+10. [AlexWortega/openjev](https://huggingface.co/AlexWortega/openjev)
 
 Browse free AI models: https://www.qaz5678.xyz/models/
