@@ -1,30 +1,30 @@
-# Daily AI Radar - 2026-09-26
+# Daily AI Radar - 2026-09-27
 
 Source: https://www.qaz5678.xyz/daily/
 
 ## AI News Top 10
 1. [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
-2. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
-3. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+2. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+3. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
 4. [Pentagon says overreliance on AI contributed to missile strike on Iran school](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
 5. [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
-6. [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
-7. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+6. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+7. [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
 8. [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
-9. [Claude Code reads AGENTS.md only when telemetry is on [fixed]](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
-10. [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
+9. [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+10. [Claude Code reads AGENTS.md only when telemetry is on [fixed]](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
 
 ## Trending AI Projects Top 10
-1. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-2. [obra/superpowers](https://github.com/obra/superpowers)
-3. [dream-num/univer](https://github.com/dream-num/univer)
-4. [androoAGI/starnet](https://github.com/androoAGI/starnet)
-5. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-6. [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel)
-7. [google/ax](https://github.com/google/ax)
-8. [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
-9. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-10. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+1. [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+2. [dream-num/univer](https://github.com/dream-num/univer)
+3. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+4. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+5. [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+6. [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action)
+7. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+8. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+9. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+10. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 
 ## Trending AI Models Top 10
 1. [convaiinnovations/laya](https://huggingface.co/convaiinnovations/laya)
